@@ -1,9 +1,9 @@
 ## Litoral Libras ##
 
-Laravel versão 5.5 (https://laravel.com/docs/5.5)
+Laravel versão 5.5 (https://laravel.com/docs/5.5)<br>
 Banco de Dados MySQL.
 
-Criar uma base de dados
+Criar uma base de dados<br>
 Renomear .env.example para .env e configurar ambiente
 
 Na pasta do projeto, rodar os comandos:
