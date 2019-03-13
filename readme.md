@@ -1,5 +1,7 @@
 ## Litoral Libras ##
 
+Laravel versão 5.5 (https://laravel.com/docs/5.5)
+
 Renomear .env.example para .env e configurar
 
 Na pasta do projeto, rodar os comandos:
@@ -10,3 +12,6 @@ Na pasta do projeto, rodar os comandos:
 - php artisan migrate
 
 Importar o arquivo inserts.sql para a base de dados
+
+Observações:
+- A pasta /storage precisa de permissão 755
