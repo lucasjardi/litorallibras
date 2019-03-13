@@ -14,4 +14,4 @@ Na pasta do projeto, rodar os comandos:
 Importar o arquivo inserts.sql para a base de dados
 
 Observações:
-- A pasta /storage precisa de permissão 755
+- A pasta /storage e a bootstrap/cache precisa de permissão de escrita e leitura para todos.
